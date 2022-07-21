@@ -5431,6 +5431,11 @@ type@^2.5.0:
   resolved "https://registry.npmjs.org/type/-/type-2.6.0.tgz#3ca6099af5981d36ca86b78442973694278a219f"
   integrity sha512-eiDBDOmkih5pMbo9OqsqPRGMljLodLcwd5XD5JbtNB0o89xZAwynY9EdCDsJU7LtcVCClu9DvM7/0Ep1hYX3EQ==
 
+typechain-target-ethers-v5@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.npmjs.org/typechain-target-ethers-v5/-/typechain-target-ethers-v5-5.0.1.tgz#a6b0ce6c2e8ff55f2d555d8ab55b9251ed9d211c"
+  integrity sha512-ag2fMLcXTZwtHSeDT6+QanmY7yVn3VSYBcqIGpj1A3Zp+d9Bmto5qM/eFXUsql4i9UBLgr3GVGgjkR6lz40QGQ==
+
 typechain@^8.1.0:
   version "8.1.0"
   resolved "https://registry.npmjs.org/typechain/-/typechain-8.1.0.tgz#fc4902ce596519cb2ccfd012e4ddf92a9945b569"
